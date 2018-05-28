@@ -14,5 +14,3 @@ XXX-项目描述
     $ npm install 
     $ npm run dev
 ```
-
-
